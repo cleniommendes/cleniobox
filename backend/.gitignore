@@ -3,3 +3,4 @@ tmp/*
 !tmp/.gitkeep
 package-lock.json
 yarn.lock
+src/config/token.json
